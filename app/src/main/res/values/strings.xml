@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Zone</string>
+    <string name="discover_latest_news">Discover Latest News</string>
+    <string name="search">Search</string>
+    <string name="search_for_news">Search For News</string>
+    <string name="category">category</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="back">Back</string>
+</resources>
