@@ -37,7 +37,7 @@ News Zone using the [NewsAPI](https://newsapi.org/) for constructing RESTful API
 News API is a simple and easy-to-use API that returns JSON metadata for headlines and articles live all over the web right now.
 
 ## :camera_flash: Screenshots
-<img src="/results/screenshot_1.jpeg" width="260">&emsp;<img src="/results/screenshot_2.jpeg" width="260">&emsp;<img src="/results/screenshot_3.jpeg" width="260">&emsp;<img src="/results/screenshot_4.jpeg" width="260">&emsp;<img src="/results/screenshot_5.jpeg" width="260">&emsp;<img src="/results/screenshot_6.png" width="260">&emsp;<img src="/results/screenshot_6.jpeg" width="260">&emsp;<img src="/results/screenshot_6.png" width="260">
+<img src="/results/screenshot_1.jpeg" width="260">&emsp;<img src="/results/screenshot_2.jpeg" width="260">&emsp;<img src="/results/screenshot_6.jpeg" width="260">&emsp;<img src="/results/screenshot_3.jpeg" width="260">&emsp;<img src="/results/screenshot_4.jpeg" width="260">&emsp;<img src="/results/screenshot_5.jpeg" width="260">
 
 Cached Results
 <img src="/results/screenshot_7.jpeg" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
