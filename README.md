@@ -39,5 +39,5 @@ News API is a simple and easy-to-use API that returns JSON metadata for headline
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.jpeg" width="260">&emsp;<img src="/results/screenshot_2.jpeg" width="260">&emsp;<img src="/results/screenshot_6.jpeg" width="260">&emsp;<img src="/results/screenshot_3.jpeg" width="260">&emsp;<img src="/results/screenshot_4.jpeg" width="260">&emsp;<img src="/results/screenshot_5.jpeg" width="260">
 
-Cached Results
-<img src="/results/screenshot_7.jpeg" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+Cached Results<br>
+<img src="/results/screenshot_7.jpeg" width="260">
